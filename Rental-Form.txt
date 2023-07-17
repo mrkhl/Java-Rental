@@ -1,0 +1,8 @@
+Rental Form     :- 
+   Apartment ID :1
+Price :50.0
+StartDate :10/10/2023 | 10:30PM
+EndDate :11/10/2023 | 10:30AM
+customer ID :1
+customer Name :Mohammed
+customer Mobile :97364188
